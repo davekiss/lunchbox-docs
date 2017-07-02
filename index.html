@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Lunchbox Documentation</title>
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
@@ -12,8 +12,27 @@
 </body>
 <script>
   window.$docsify = {
-    name: '',
-    repo: ''
+    name: 'Lunchbox',
+    repo: 'https://github.com/davekiss/lunchbox-docs',
+    coverpage: true,
+    nameLink: 'https://wplunchbox.com',
+    themeColor: '#83cbd0',
+    loadSidebar: true,
+    maxLevel: 4,
+    subMaxLevel: 2,
+    plugins: [
+      function(hook, vm) {
+        hook.beforeEach(function (html) {
+          var url = 'https://github.com/davekiss/lunchbox-docs/blob/master/' + vm.route.file
+          var editHtml = '[:memo: Edit Document](' + url + ')\n'
+          return editHtml
+            + html
+            + '\n----\n'
+            + 'Last modified {docsify-updated} '
+            + editHtml
+        })
+      }
+    ]
   }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
