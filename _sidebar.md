@@ -6,18 +6,14 @@
   - [Enrollment](enrollment.md)
 
 - Selling Courses
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
+  - [Easy Digital Downloads](easy-digital-downloads.md)
+  - [Woocommerce](woocommerce.md)
 
-- Hooks
-  - [Actions](actions.md)
-  - [Filters](filters.md)
+- Actions
+  - [Course Viewer](actions-course-viewer.md)
+
+- Filters
 
 - Shortcodes
   - [Course](shortcodes-course.md)
   - [Student](shortcodes-student.md)
-
-- Billing
-  - [Subscription](subscription.md)
-
-- [Changelog](changelog.md)

@@ -17,6 +17,10 @@ This is a great choice if you want to share your course contents in return for c
 
 ## Paid + Purchase-Protected
 
+One of the main benefits of creating an online course is the ability to monetize your work and sell it as an informational product.
+
+Lunchbox allows you to sell your courses by providing simple integrations with several other eCommerce platforms. You can create a product using one of these eCommerce platforms and use the Lunchbox integration to specify which courses that a customer should be enrolled in when they successfully purchase that product.
+
 If you'd like to protect your course so that only those who purchase a related product are enrolled in the course, you should choose this option. With this setting selected, all guest, visitors, and members will be directed to your product's sell page if they try to view the course contents without purchasing. Once the user has purchased your related product, they will be automatically enrolled in the course and have complete access to the course contents.
 
 Note that the Lunchbox plugin doesn't handle any of the eCommerce transactions, shopping carts, or product pages. Lunchbox assumes that you already have a store set up using another eCommerce WordPress plugin such as Easy Digital Downloads or WooCommerce, or another eCommerce platform such as Shopify or Gumroad. Lunchbox can integrate with specific eCommerce platforms to ensure that there is a seamless connection between your online store and products, and your Lunchbox courses.

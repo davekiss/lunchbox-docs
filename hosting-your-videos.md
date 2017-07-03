@@ -6,11 +6,11 @@ Once you've upgraded to Vimeo Pro, navigate to the Settings page of the video th
 
 In the sidebar on that page, choose the Video file tab.
 
-![logo](assets/images/file-Gg6F9JxvuB.png)
+<img src="assets/images/file-Gg6F9JxvuB.png" title="Vimeo 1" width="300" />
 
 Now, on the right side of the page, you'll see a section labeled Access your video files
 
-![logo](assets/images/file-ILBK0LZfkc.png)
+<img src="assets/images/file-ILBK0LZfkc.png" title="Vimeo 2" width="600" />
 
 Select the link located in the High Def text box and copy it. This is the link that you will paste into your Lunchbox lesson settings for the video url.
 
