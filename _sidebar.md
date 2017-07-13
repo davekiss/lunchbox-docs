@@ -13,6 +13,7 @@
   - [Course Viewer](actions-course-viewer.md)
 
 - Filters
+  - [Student](filters-student.md)
 
 - Shortcodes
   - [Course](shortcodes-course.md)
