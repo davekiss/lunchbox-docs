@@ -12,14 +12,14 @@ add_filter('lunchbox.student.courses.show', function($list_item, $args, $course,
 
 ### Arguments
 
-#### $list_item string
+#### $list_item `string`
 The default list item entry for the link to the course that the student is enrolled in.
 
 ```php
 sprintf('<li><a class="is-lunchbox-course-link %1$s" href="%2$s" title="%3$s">%3$s</a></li>', $args['class'], $course->link, $course->title )
 ```
 
-#### $args array
+#### $args `array`
 The options passed to the shortcode.
 
 ```php
