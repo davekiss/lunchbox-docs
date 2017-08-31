@@ -24,6 +24,7 @@
     auto2top: true,
     formatUpdated: '{MM}/{DD}/{YY} at {HH}:{mm}',
     routerMode: 'history',
+    search: 'auto',
     plugins: [
       function(hook, vm) {
         hook.beforeEach(function (html) {
@@ -40,4 +41,7 @@
   }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </html>
