@@ -1,11 +1,11 @@
 ![logo](assets/images/lunchbox-flat.png)
 
-# Lunchbox <small>1.0.9</small>
+# Lunchbox <small>1.0.11</small>
 
-> Create and Sell Video Courses with WordPress
+> The professional video course platform for self-starters.
 
 - Own your data
 - Keep your entire sale
 - Developer-Friendly
 
-[Get Started](#installation)
+[Get Started](installation)

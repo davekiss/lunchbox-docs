@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">Please wait...</div>
 </body>
 <script>
   window.$docsify = {
@@ -21,15 +21,17 @@
     maxLevel: 4,
     subMaxLevel: 2,
     auto2top: true,
+    formatUpdated: '{MM}/{DD}/{YY} at {HH}:{mm}',
+    routerMode: 'history',
     plugins: [
       function(hook, vm) {
         hook.beforeEach(function (html) {
           var url = 'https://github.com/davekiss/lunchbox-docs/blob/master/' + vm.route.file
-          var editHtml = '[:memo: Edit Document](' + url + ')\n'
+          var editHtml = '[:memo: Something not right? Suggest an edit.](' + url + ')\n'
           return editHtml
             + html
             + '\n----\n'
-            + 'Last modified {docsify-updated} '
+            + 'Updated on {docsify-updated} <br />'
             + editHtml
         })
       }

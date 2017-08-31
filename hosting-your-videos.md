@@ -18,5 +18,5 @@ Select the link located in the High Def text box and copy it. This is the link t
 
 If you'd like to use YouTube as your video hosting platform, you can simply copy the YouTube link for the video that you'd like to use as your Lunchbox lesson and paste it into the Video URL input under that Lunchbox lesson's settings page.
 
-
 ## Amazon S3
+If you'd like to use Amazon S3 as your video hosting platform, you can simply copy the video link for the video that you'd like to use as your Lunchbox lesson and paste it into the Video URL input under that Lunchbox lesson's settings page.

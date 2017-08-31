@@ -13,9 +13,13 @@
   - [Course Viewer](actions-course-viewer.md)
 
 - Filters
-  - [Enrollment](filters-enrollment.md)
-  - [Student](filters-student.md)
+  - [Enrollment](filters/enrollment.md)
+  - [Student](filters/student.md)
 
 - Shortcodes
-  - [Course](shortcodes-course.md)
-  - [Student](shortcodes-student.md)
+  - [Course](shortcodes/course.md)
+  - [Student](shortcodes/student.md)
+
+- Integrations
+  - [ConvertKit](integrations/convertkit.md)
+  - [Slack](integrations/slack.md)
