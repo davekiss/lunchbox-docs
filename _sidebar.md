@@ -23,3 +23,6 @@
 - Integrations
   - [ConvertKit](integrations/convertkit.md)
   - [Slack](integrations/slack.md)
+
+- Developer Tools
+  - [Logging](developer/logging.md)
