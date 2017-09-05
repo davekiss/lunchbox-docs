@@ -1,4 +1,8 @@
-## Vimeo
+# Videos
+<img src="assets/images/courses/editor/add-video.png" title="Empty Lunchbox Course Editor" width="600" />
+<img src="assets/images/courses/editor/video-url.png" title="Empty Lunchbox Course Editor" width="600" />
+
+## Hosting with Vimeo
 
 If you'd like to show lessons that use Vimeo as the video hosting provider you'll need a Vimeo Pro account. This is a technical requirement, since Vimeo does not allow hiding the controls on their video player with a free account.
 
@@ -14,9 +18,9 @@ Now, on the right side of the page, you'll see a section labeled Access your vid
 
 Select the link located in the High Def text box and copy it. This is the link that you will paste into your Lunchbox lesson settings for the video url.
 
-## YouTube
+## Hosting with YouTube
 
 If you'd like to use YouTube as your video hosting platform, you can simply copy the YouTube link for the video that you'd like to use as your Lunchbox lesson and paste it into the Video URL input under that Lunchbox lesson's settings page.
 
-## Amazon S3
+## Hosting with Amazon S3
 If you'd like to use Amazon S3 as your video hosting platform, you can simply copy the video link for the video that you'd like to use as your Lunchbox lesson and paste it into the Video URL input under that Lunchbox lesson's settings page.

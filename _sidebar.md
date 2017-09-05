@@ -2,12 +2,11 @@
   - [Installation](installation.md)
 
 - Creating Courses
-  - [Hosting your Videos](hosting-your-videos.md)
-  - [Enrollment](enrollment.md)
-
-- Selling Courses
-  - [Easy Digital Downloads](easy-digital-downloads.md)
-  - [Woocommerce](woocommerce.md)
+  - [Making your first course](courses/making-your-first-course.md)
+  - [Lesson settings](lessons/settings.md)
+  - [Adding Videos](videos.md)
+  - [All about Enrollment](courses/settings/enrollment.md)
+  - [Selling your course](courses/selling.md)
 
 - Actions
   - [Course Viewer](actions/course-viewer.md)
