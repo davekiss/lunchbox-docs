@@ -10,11 +10,12 @@
   - [Woocommerce](woocommerce.md)
 
 - Actions
-  - [Course Viewer](actions-course-viewer.md)
+  - [Course Viewer](actions/course-viewer.md)
 
 - Filters
   - [Enrollment](filters/enrollment.md)
   - [Student](filters/student.md)
+  - [Course Viewer](filters/course-viewer.md)
 
 - Shortcodes
   - [Course](shortcodes/course.md)
